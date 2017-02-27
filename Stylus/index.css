@@ -1,0 +1,166 @@
+.headerppal{background:#01a9db;background:#01a9db;overflow:hidden;border-radius:40px 40px 40px 40px;padding: 10px;}.headerppal h1{color:#0e6889;text-align:center;font-size:100px}.headerppal h2{color:#0e6889;text-align:center;font-size:40px}.logo{float:left}.imagen_superior{float:right}.menuOpciones ul li{display:inline-block;background:#939C9F;padding:15px;margin:0;}.menuOpciones ul li a{color:#fff;font-size:30px;text-decoration:none}
+.noticias1{
+	float: left;
+
+	
+}
+.noticias2{
+	float: left;
+	
+}
+.noticias1 h2{
+	color:#0E6889;
+		text-align: left;
+		font-size:80px;
+		margin-left:30px;
+		position: relative;
+		top: 30px;
+
+}
+.noticia1{
+ float: right; 
+    width: 590px; 
+
+
+}
+
+
+.img_noticia1{
+	float:left
+
+
+}
+
+
+.img_noticia2{
+	margin-top: 300px;
+      float:left
+	
+
+}
+.descripcion{
+	 font-size: 14px;
+    line-height: 30px;
+  
+        height: 300px;
+    width: 900px;
+}
+
+img{
+
+        height: 560px;
+    width: 550px;
+
+
+}
+
+.noticia1 p{
+	height: 100px;
+    width: 1500px;
+    font-size: 30px;
+    color: #666B6B;
+    font-family: Tahoma;
+    line-height: 35px;
+    position: relative;
+    text-align: justify;
+    top:-50px ;
+    bottom: ;
+    right: ;
+    left: ;
+}
+.noticia2 p{
+	height: 100px;
+    width: 1500px;
+    font-size: 30px;
+    color: #666B6B;
+    font-family: Tahoma;
+    line-height: 35px;
+    position: relative;
+    text-align: justify;
+    top:260px;
+    bottom: ;
+    right: ;
+    left: ;
+}
+.noticia1 h3
+{
+height: 100px;
+    width: 1500px;
+    font-size: 50px;
+    color: #666B6B;
+    line-height: 40px;
+    position: relative;
+    top:-30px;
+    bottom: ;
+    right: ;
+    left: ;
+}
+
+.noticia2 h3
+{
+	height: 100px;
+    width: 1500px;
+    font-size: 50px;
+    color: #666B6B;
+    line-height: 40px;
+    position: relative;
+    top:300px;
+    bottom: ;
+    right: ;
+    left: ;
+}
+.fechas h2{
+color:#0E6889;
+		text-align: left;
+		font-size:80px;
+		margin-right:30px;
+		position: relative;
+		top: 50px;
+
+
+}
+.vs{
+	float: right;
+	margin-left: 300px;
+	vertical-align: 100px;
+}
+.fechas{
+	    background:#939C9F;
+	 	border-radius: 40px 40px 40px 40px;
+	 	position:relative;
+	 	top:200px;
+        bottom: ;
+        right:80px ;
+        left: ;
+        width: 800px;
+        height:1200px;
+
+}
+.fechas h2{
+	text-align: center;
+}
+.fechas p{
+	text-align: center;
+	font-size: 30px;
+	font-family: Tahoma;
+	color: white;
+}
+.fechas img{
+	position: relative;
+	right: -200px;
+	width: 350px;
+	height: 350px;
+}
+.autor{
+	background: #01a9db ;
+	position: relative;
+	top: 1700px;
+	padding: 9px;
+}
+.autor p{
+	font-family: Tahoma;
+	font-size: 35px;
+	color: #0E6889;
+    text-align: center;
+
+}
